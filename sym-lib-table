@@ -1,0 +1,9 @@
+(sym_lib_table
+  (lib (name 1-1734248-5)(type Legacy)(uri ${KIPRJMOD}/lib_sch/1-1734248-5.lib)(options "")(descr ""))
+  (lib (name BLM18AG601SN1D)(type Legacy)(uri ${KIPRJMOD}/lib_sch/BLM18AG601SN1D.lib)(options "")(descr ""))
+  (lib (name DF40C-60DP-0.4V_51_)(type Legacy)(uri ${KIPRJMOD}/lib_sch/DF40C-60DP-0.4V_51_.lib)(options "")(descr ""))
+  (lib (name DF40HC_4.0_-60DS-0.4V_51_)(type Legacy)(uri ${KIPRJMOD}/lib_sch/DF40HC_4.0_-60DS-0.4V_51_.lib)(options "")(descr ""))
+  (lib (name DLP11SN900HL2L)(type Legacy)(uri ${KIPRJMOD}/lib_sch/DLP11SN900HL2L.lib)(options "")(descr ""))
+  (lib (name DMG1024UV-7)(type Legacy)(uri ${KIPRJMOD}/lib_sch/DMG1024UV-7.lib)(options "")(descr ""))
+  (lib (name SFW15R-1STE1LF)(type Legacy)(uri ${KIPRJMOD}/lib_sch/SFW15R-1STE1LF.lib)(options "")(descr ""))
+)
